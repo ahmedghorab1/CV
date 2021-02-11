@@ -1,2 +1,2 @@
-# cv
-my initial cv website
+# CV
+My Initial CV website
