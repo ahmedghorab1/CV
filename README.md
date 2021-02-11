@@ -1,2 +1,2 @@
 # CV
-My Initial CV website
+My Initial CV website using simple HTML and CSS
