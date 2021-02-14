@@ -1,2 +1,2 @@
 # CV
-My Initial CV website using simple HTML and CSS
+My First CV website using simple HTML and CSS
